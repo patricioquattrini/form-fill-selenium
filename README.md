@@ -1,7 +1,11 @@
-# chat-bot-inmuebles
+# form-fill-selenium
 
-Chat Bot Inmuebles funciona interactuando con un bot de Telegram. Este le preguntará sobre las caracteristicas que desea para el inmueble que busca.
-Una vez terminado esto, el bot le devolverra todos los inmuebles de ese día que cumplan con esas caracteristicas.
+Programa que toma los datos de un excel y llena formularios usando selenium.
+Cada fila del excel supone un nuevo formulario de la pagina. 
 
 ## Ejecución
-Ejecutar el archivo ```main.py``` e iniciar con el comando /start
+Preparar el Excel según el modelo de ejemplo
+Descomentar la función que desea utilizar dependiendo si se quiere agregar o modificar información
+
+
+
